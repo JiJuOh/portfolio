@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.efdbbbac.css",
-    "main.js": "/portfolio/static/js/main.59329385.js",
+    "main.css": "/portfolio/static/css/main.6dd9ea1a.css",
+    "main.js": "/portfolio/static/js/main.a3c6b96b.js",
     "static/media/jy_data.pdf": "/portfolio/static/media/jy_data.77be784fc21059649bda.pdf",
     "static/media/deved-wave.png": "/portfolio/static/media/deved-wave.6a5af4e437921ff793f6.png",
     "index.html": "/portfolio/index.html",
-    "main.efdbbbac.css.map": "/portfolio/static/css/main.efdbbbac.css.map",
-    "main.59329385.js.map": "/portfolio/static/js/main.59329385.js.map"
+    "main.6dd9ea1a.css.map": "/portfolio/static/css/main.6dd9ea1a.css.map",
+    "main.a3c6b96b.js.map": "/portfolio/static/js/main.a3c6b96b.js.map"
   },
   "entrypoints": [
-    "static/css/main.efdbbbac.css",
-    "static/js/main.59329385.js"
+    "static/css/main.6dd9ea1a.css",
+    "static/js/main.a3c6b96b.js"
   ]
 }
